@@ -1,3 +1,3 @@
 # MatterJSBoilerPlate
 MatterJSBoilerPlate
-https://shivjain123.github.io/dustbin2/
+https://nimishanimz93.github.io/project-dustbin2/
